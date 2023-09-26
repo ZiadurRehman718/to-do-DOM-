@@ -1,0 +1,20 @@
+body{
+    background: fixed;
+    background-image: linear-gradient(to bottom right , #6702a1 , #e60a78);
+}
+h1{
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+#text{
+    border-radius: 25px;
+}
+#list{
+     text-align: center;
+     list-style-type: none;
+}
+#btn{
+    border-radius: 25px;
+}
